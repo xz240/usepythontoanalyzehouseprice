@@ -10,7 +10,7 @@ Working on a 2 million rows of data in the past summer with Tableau , I was able
 # Choose my tools
 -	Python-3.8.0.exe, download link: https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe
 -	PyCharm
--	PostgreSQL 12
+-	PostgreSQL 12，
   The reasons why I chose PostgreSQl, rather than MySQL are as follows: 1) This project is a combination of Python and data preparation     from website.2) I have used MySQL before and want to try new one this time.
   
   Here is the users of the two databases by google "which company use postgresql". PostgreSQL: Apple, BioPharm, Etsy, IMDB, Macworld,       Debian, Fujitsu, Red Hat, Sun Microsystem, Cisco, Skype. See the full list here. MySQL: GitHub, US Navy, NASA, Tesla, Netflix, WeChat,     Facebook, Zendesk, Twitter, Zappos, YouTube, Spotify.For personal developer, there is basicly not difference between this two databases.
