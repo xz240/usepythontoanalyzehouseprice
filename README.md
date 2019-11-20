@@ -15,4 +15,14 @@ Working on a 2 million rows of data in the past summer with Tableau , I was able
   
   Here is the users of the two databases by google "which company use postgresql". PostgreSQL: Apple, BioPharm, Etsy, IMDB, Macworld,       Debian, Fujitsu, Red Hat, Sun Microsystem, Cisco, Skype. See the full list here. MySQL: GitHub, US Navy, NASA, Tesla, Netflix, WeChat,     Facebook, Zendesk, Twitter, Zappos, YouTube, Spotify.For personal developer, there is basicly not difference between this two databases.
 
-# 
+# Set up PyCharm
+- Set up Python Interpreter. Follow the below steps in PyCharm Professional 2019.2 (Redfin is my project name)
+  File - Settings - Project: Redfin - Project Interpreter - Python 3.8
+  
+- Avoiding the encoding problem. Follow the guidance to set up UTF-8 encoding 
+  File - Settings - Editor - File Encodings - Set Global Encoding, Project Encoding, and Default encoding for properties files drop-down     list to UTF-8
+- Use Hello World.py to test if PyCharm work now.
+
+
+
+ 
